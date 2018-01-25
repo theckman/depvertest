@@ -1,4 +1,4 @@
 package depvertest
 
 // Version is the package version
-const Version = "1.2.2"
+const Version = "2.0.0"
